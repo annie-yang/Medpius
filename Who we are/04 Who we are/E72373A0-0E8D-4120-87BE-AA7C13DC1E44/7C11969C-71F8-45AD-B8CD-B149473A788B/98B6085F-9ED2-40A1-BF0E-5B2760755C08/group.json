@@ -1,8 +1,8 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
+  "_class": "group",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "23a81990-16f1-11ea-a28c-8d7bc5d2cf89",
+  "do_objectID": "98B6085F-9ED2-40A1-BF0E-5B2760755C08",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,23 +15,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 252,
+    "width": 619,
+    "x": 257,
+    "y": 1019
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -40,20 +33,24 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "E72373A0-0E8D-4120-87BE-AA7C13DC1E44"
+      "class": "group",
+      "id": "105286D9-6ED7-4C79-B6C8-5826DE6264D6"
     },
     {
-      "class": "artboard",
-      "id": "F07654EC-38F9-4415-9800-78879AE2AD92"
+      "class": "group",
+      "id": "5AC59053-2ED4-4172-AB14-B7BAD0196C80"
     },
     {
-      "class": "artboard",
-      "id": "CEA33073-221B-46A2-9697-22AF1382FD2F"
+      "class": "group",
+      "id": "52014AF2-DAE8-4803-984C-EC991AD02AF6"
+    },
+    {
+      "class": "text",
+      "id": "68FD51FC-6A17-4A74-8E25-760FDD368179"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "04 Who we are",
+  "name": "Education history",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -93,7 +90,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "4697EC8C-009D-41E7-A7EE-9BB8B5E1CD14",
+    "do_objectID": "9D286C48-19D3-49C5-BB96-067F339D92D2",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -104,11 +101,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
   }
 }

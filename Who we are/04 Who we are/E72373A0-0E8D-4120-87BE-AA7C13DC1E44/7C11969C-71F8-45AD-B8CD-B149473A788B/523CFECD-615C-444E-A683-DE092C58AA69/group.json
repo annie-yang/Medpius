@@ -1,8 +1,8 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
+  "_class": "group",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "23a81990-16f1-11ea-a28c-8d7bc5d2cf89",
+  "do_objectID": "523CFECD-615C-444E-A683-DE092C58AA69",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,23 +15,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 696,
+    "width": 619,
+    "x": 257,
+    "y": 283
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -40,20 +33,48 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "E72373A0-0E8D-4120-87BE-AA7C13DC1E44"
+      "class": "group",
+      "id": "D8829534-5918-4CB4-AA39-CC510EA17AFD"
     },
     {
-      "class": "artboard",
-      "id": "F07654EC-38F9-4415-9800-78879AE2AD92"
+      "class": "group",
+      "id": "C5477D23-6910-46B2-811B-E4B9DC6B4978"
     },
     {
-      "class": "artboard",
-      "id": "CEA33073-221B-46A2-9697-22AF1382FD2F"
+      "class": "group",
+      "id": "B0FCB821-03BF-4EA9-9994-640D2109F6E3"
+    },
+    {
+      "class": "group",
+      "id": "99039D94-D2FF-49E5-B5CE-204DADFBE244"
+    },
+    {
+      "class": "group",
+      "id": "1BBAF579-49AE-458E-8518-F07143BE6A44"
+    },
+    {
+      "class": "group",
+      "id": "E91C249C-1711-492E-9395-876D809839A1"
+    },
+    {
+      "class": "group",
+      "id": "CEC1D0A3-34D3-4006-A233-89E856F06C0E"
+    },
+    {
+      "class": "group",
+      "id": "A4A5FEEC-AA40-412B-8B01-1CDE70B8DCF7"
+    },
+    {
+      "class": "group",
+      "id": "A1CA72BD-2659-401E-B027-99533CB8AAB0"
+    },
+    {
+      "class": "text",
+      "id": "7B8FD91C-14E4-41C0-A966-BA151C6AA51C"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "04 Who we are",
+  "name": "Work experience",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -93,7 +114,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "4697EC8C-009D-41E7-A7EE-9BB8B5E1CD14",
+    "do_objectID": "B036F3D5-59FE-456F-91A6-C8C664EC7DC1",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -104,11 +125,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
   }
 }

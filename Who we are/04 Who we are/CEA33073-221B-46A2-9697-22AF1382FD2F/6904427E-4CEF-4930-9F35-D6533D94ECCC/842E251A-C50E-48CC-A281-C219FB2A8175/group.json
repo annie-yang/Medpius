@@ -1,8 +1,8 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
+  "_class": "group",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "23a81990-16f1-11ea-a28c-8d7bc5d2cf89",
+  "do_objectID": "842E251A-C50E-48CC-A281-C219FB2A8175",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,23 +15,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
+    "height": 461,
+    "width": 1024,
     "x": 0,
-    "y": 0
+    "y": 1035
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -40,20 +33,20 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "E72373A0-0E8D-4120-87BE-AA7C13DC1E44"
+      "class": "rectangle",
+      "id": "C13EA386-827A-4DEA-A8A6-FB4BDD8C71EE"
     },
     {
-      "class": "artboard",
-      "id": "F07654EC-38F9-4415-9800-78879AE2AD92"
+      "class": "text",
+      "id": "BC967135-B160-4158-9B64-0084D2B29180"
     },
     {
-      "class": "artboard",
-      "id": "CEA33073-221B-46A2-9697-22AF1382FD2F"
+      "class": "text",
+      "id": "2DD7B0CB-CC42-4161-A499-59C3540D8737"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "04 Who we are",
+  "name": "Section-3",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -93,7 +86,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "4697EC8C-009D-41E7-A7EE-9BB8B5E1CD14",
+    "do_objectID": "47831BD1-8CF9-452B-A049-1E846B58AD24",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -104,11 +97,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
   }
 }

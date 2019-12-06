@@ -1,8 +1,8 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
+  "_class": "group",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "23a81990-16f1-11ea-a28c-8d7bc5d2cf89",
+  "do_objectID": "7C11969C-71F8-45AD-B8CD-B149473A788B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,23 +15,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 1473,
+    "width": 963,
+    "x": 31,
+    "y": 30
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -40,20 +33,36 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "E72373A0-0E8D-4120-87BE-AA7C13DC1E44"
+      "class": "rectangle",
+      "id": "6E8CD67B-818E-4986-AF24-BA43DA54E152"
     },
     {
-      "class": "artboard",
-      "id": "F07654EC-38F9-4415-9800-78879AE2AD92"
+      "class": "group",
+      "id": "F23B1C26-2DA1-49F7-858E-3B8973C44DF6"
     },
     {
-      "class": "artboard",
-      "id": "CEA33073-221B-46A2-9697-22AF1382FD2F"
+      "class": "group",
+      "id": "98B6085F-9ED2-40A1-BF0E-5B2760755C08"
+    },
+    {
+      "class": "group",
+      "id": "523CFECD-615C-444E-A683-DE092C58AA69"
+    },
+    {
+      "class": "group",
+      "id": "6FD35425-8658-4A55-94D8-457211008CF7"
+    },
+    {
+      "class": "group",
+      "id": "D97193C8-EC6B-46C8-9854-C71E674013CD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8FB460A9-9267-453A-B5E6-6ACA82D6927F"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "04 Who we are",
+  "name": "Modal",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -93,7 +102,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "4697EC8C-009D-41E7-A7EE-9BB8B5E1CD14",
+    "do_objectID": "2AEC4B16-3C9C-4B5D-AE5B-81EBC20ECAAA",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -104,11 +113,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
   }
 }
